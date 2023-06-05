@@ -1,0 +1,37 @@
+export const theme = {
+    colors: {
+            primary: '#005F73',
+            secondary: '#00BFB2',
+            accent: '#FFA500',
+            textPrimary: '#333333',
+            textSecondary: '#666666',
+            background: '#FFFFFF',
+            error: '#FF0000',
+            success: '#00CC00',
+    },
+    typography: {
+        fontPrimary: "'Lato', sans-serif",
+        fontSecondary: "'Merriweather', serif",
+        h1: '2.5rem',
+        h2: '2rem',
+        h3: '1.75rem',
+        h4: '1.5rem',
+        h5: '1.25rem',
+        h6: '1rem',
+        p: '1rem',
+        small: '0.75rem',
+    },
+    breakpoints: {
+        mobile: '480px',
+        tablet: '768px',
+        desktop: '1024px',
+        large: '1200px',
+    },
+    spacing: {
+        xsmall: '0.25rem',
+        small: '0.5rem',
+        medium: '1rem',
+        large: '2rem',
+        xlarge: '4rem',
+    },
+};

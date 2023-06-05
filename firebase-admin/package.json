@@ -1,0 +1,9 @@
+{
+  "name": "firebase-admin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^11.9.0"
+  }
+}
